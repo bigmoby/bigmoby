@@ -1,6 +1,6 @@
 <!-- 💡 GITHUB PROFILE README - Fabio Mauro -->
 <p align="center">
-  <img src="banner_fabio_mauro_1_2.png" alt="Fabio Mauro - Agile Mind, Coding Hands" width="80%" />
+  <img src="banner_fabio_mauro_1_2.png" alt="Fabio Mauro - Agile Mind, Coding Hands" width="100%" />
 </p>
 
 # 👋 Hi there, I'm Fabio Mauro — aka *Bigmoby*
