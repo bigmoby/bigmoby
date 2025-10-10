@@ -23,6 +23,29 @@ I build ecosystems where technology and people grow together.
 
 ---
 
+### 💬 Get in Touch
+
+> 📬 **Let’s connect and build something meaningful.**
+
+Looking to collaborate, exchange ideas, or explore new opportunities?  
+Reach out directly on:
+
+<p align="center">
+  <a href="https://linkedin.com/in/fabiomauro" target="_blank">
+    <img src="socials/linkedin_logo.png" height="36em" align="center" alt="Contact Fabio on LinkedIn" title="Contact Fabio on LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/bigmoby" target="_blank">
+    <img src="socials/github-mark-white.png" height="36em" align="center" alt="Fabio Mauro on GitHub" title="Fabio Mauro on GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.credly.com/users/fabio-mauro/badges" target="_blank">
+    <img src="socials/credly_logo.png" height="36em" align="center" alt="Fabio Mauro on Credly" title="Fabio Mauro on Credly"/>
+  </a>
+</p>
+
+---
+
 ### 🛠️ Tech Stack & Tools
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
