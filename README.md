@@ -1,9 +1,9 @@
 <!-- 💡 GITHUB PROFILE README - Fabio Mauro -->
 <p align="center">
-  <img src="banner_fabio_mauro_1.png" alt="Fabio Mauro - Agile Mind, Coding Hands" width="100%" />
+  <img src="banner_fabio_mauro_1_2.png" alt="Fabio Mauro - Agile Mind, Coding Hands" width="70%" />
 </p>
 
-# 👋 Hi there, I'm Fabio Mauro  
+# 👋 Hi there, I'm Fabio Mauro — AKA *Bigmoby*
 ### 🚀 Agile Coach • Scrum Master • Senior Software Engineer • Maker
 
 I’m a **Certified Scrum Master and Agile Coach (PSM I, ICP-ATF, ICP-ACC)** with a deep technical soul —  
