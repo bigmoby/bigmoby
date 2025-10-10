@@ -1,13 +1,13 @@
 <!-- 💡 GITHUB PROFILE README - Fabio Mauro -->
 <p align="center">
-  <img src="banner_fabio_mauro_1_2.png" alt="Fabio Mauro - Agile Mind, Coding Hands" width="70%" />
+  <img src="banner_fabio_mauro_1_2.png" alt="Fabio Mauro - Agile Mind, Coding Hands" width="80%" />
 </p>
 
-# 👋 Hi there, I'm Fabio Mauro — AKA *Bigmoby*
+# 👋 Hi there, I'm Fabio Mauro — aka *Bigmoby*
 ### 🚀 Agile Coach • Scrum Master • Senior Software Engineer • Maker
 
 I’m a **Certified Scrum Master and Agile Coach (PSM I, ICP-ATF, ICP-ACC)** with a deep technical soul —  
-a rare mix of **human-centric leadership** and **hands-on coding**.  
+a rare mix of **human-centric leadership** and **hands-on engineering**.  
 From **Agile transformations** to **AI agents**, from **Scala and Java backends** to **Home Assistant custom add-ons**,  
 I build ecosystems where technology and people grow together.
 
@@ -17,29 +17,38 @@ I build ecosystems where technology and people grow together.
 
 - 🌀 **Agile & Lean Coaching** — team facilitation, continuous improvement, delivery flow optimization  
 - 💡 **Product Discovery** — Story Mapping, MVP Design, Impact Mapping  
-- 🤖 AI Agent Orchestration — crafting intelligent systems with adaptive guardrails, reasoning chains, and contextual memory.
-- 🏡 **Home Assistant Add-ons** — Custom add-on, Integrations, libraries, automations, and smart dashboards  
+- 🤖 **AI Agent Orchestration** — crafting intelligent systems with adaptive guardrails, reasoning chains, and contextual memory  
+- 🏡 **Home Assistant Add-ons** — custom add-ons, integrations, libraries, automations, and smart dashboards  
 - ⚙️ **Full-stack Engineering** — Spring Boot • Scala • Quarkus • ReactJS
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-00BFA6?style=for-the-badge&logo=chainlink&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 ![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESPHome](https://img.shields.io/badge/ESPHome-000000?style=for-the-badge&logo=esphome&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-00BFA6?style=for-the-badge&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
 
 ---
 
@@ -51,8 +60,7 @@ I build ecosystems where technology and people grow together.
 🏅 **EC-Council Ethical Hacking Essentials (EHE)**  
 🏅 **Lightbend Advanced Scala**  
 🏅 **Lightbend Apache Spark**  
-🏅 **Confluent Developer Training for Apache Kafka**  
-
+🏅 **Confluent Developer Training for Apache Kafka**
 
 > *(All verified on [Credly](https://www.credly.com/users/fabio-mauro/badges))*
 
@@ -78,6 +86,9 @@ A project born from real-world networking challenges faced by the community.
 Python library for interacting with **Fujitsu General split AC APIs**, used by several HA integrations.  
 Forked and extended with improved session handling and modern Python typing.
 
+---
+
+*Most of my daily work happens in private, enterprise-grade repositories — but my public projects reflect the same level of care and craftsmanship I bring to every product I build.*
 
 ---
 
