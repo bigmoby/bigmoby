@@ -32,15 +32,15 @@ Reach out directly on:
 
 <p align="center">
   <a href="https://linkedin.com/in/fabiomauro" target="_blank">
-    <img src="socials/linkedin_logo.png" height="36em" align="center" alt="Contact Fabio on LinkedIn" title="Contact Fabio on LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Fabio_Mauro-blue?style=for-the-badge&logo=linkedin" height="36em" align="center" alt="Contact Fabio on LinkedIn" title="Contact Fabio on LinkedIn"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/bigmoby" target="_blank">
-    <img src="socials/github-mark-white.png" height="36em" align="center" alt="Fabio Mauro on GitHub" title="Fabio Mauro on GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-bigmoby-black?style=for-the-badge&logo=github" height="36em" align="center" alt="Fabio Mauro on GitHub" title="Fabio Mauro on GitHub"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.credly.com/users/fabio-mauro/badges" target="_blank">
-    <img src="socials/credly_logo.png" height="36em" align="center" alt="Fabio Mauro on Credly" title="Fabio Mauro on Credly"/>
+    <img src="https://img.shields.io/badge/Credly-Certifications-orange?style=for-the-badge&logo=credly" height="36em" align="center" alt="Fabio Mauro on Credly" title="Fabio Mauro on Credly"/>
   </a>
 </p>
 
