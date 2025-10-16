@@ -118,6 +118,7 @@ Forked and extended with improved session handling and modern Python typing.
 ### 📈 GitHub Stats
 
 ![Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigmoby&show_icons=true&theme=tokyonight)  
+![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bigmoby&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bigmoby&layout=compact&theme=tokyonight)  
 ![Profile views](https://komarev.com/ghpvc/?username=bigmoby&label=Profile%20views&color=blueviolet&style=flat-square)
 
