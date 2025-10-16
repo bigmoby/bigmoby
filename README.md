@@ -121,7 +121,7 @@ Forked and extended with improved session handling and modern Python typing.
 ![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bigmoby&theme=tokyonight)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bigmoby&layout=donut&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bigmoby&hide_progress=true&theme=tokyonight)
 ![Profile views](https://komarev.com/ghpvc/?username=bigmoby&label=Profile%20views&color=blueviolet&style=flat-square)
 
 ---
