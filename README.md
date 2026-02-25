@@ -6,7 +6,7 @@
 # 👋 Hi there, I'm Fabio Mauro — aka *Bigmoby*
 ### 🚀 Agile Coach • Scrum Master • Senior Software Engineer • Maker
 
-I’m a **Certified Scrum Master and Agile Coach (PSM I, ICP-ATF, ICP-ACC)** with a deep technical soul —  
+I’m a **Certified Scrum Master and Agile Coach (PSM II, ICP-ATF, ICP-ACC)** with a deep technical soul —  
 a rare mix of **human-centric leadership** and **hands-on engineering**.  
 From **Agile transformations** to **AI agents**, from **Scala and Java backends** to **Home Assistant custom add-ons**,  
 I build ecosystems where technology and people grow together.
