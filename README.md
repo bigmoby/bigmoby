@@ -77,7 +77,7 @@ Reach out directly on:
 
 ### 🧩 Certifications
 
-🏅 **Professional Scrum Master II (PSM II)**
+🏅 **Professional Scrum Master II (PSM II)**  
 🏅 **ICAgile Certified Professional – Agile Coaching (ICP-ACC)**  
 🏅 **ICAgile Certified Professional – Agile Team Facilitation (ICP-ATF)**   
 🏅 **EC-Council Ethical Hacking Essentials (EHE)**  
