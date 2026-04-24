@@ -115,6 +115,18 @@ Forked and extended with improved session handling and modern Python typing.
 
 ---
 
+## ⭐ Star History
+
+<a href="https://www.star-history.com/?repos=bigmoby%2Ffglair_for_homeassistant%2Cbigmoby%2Faddon-wireguard-client%2Cbigmoby%2Fhassio-repository-addon&type=date&legend=bottom-right">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=bigmoby/fglair_for_homeassistant%2Cbigmoby/addon-wireguard-client%2Cbigmoby/hassio-repository-addon&type=date&theme=dark&legend=bottom-right" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=bigmoby/fglair_for_homeassistant%2Cbigmoby/addon-wireguard-client%2Cbigmoby/hassio-repository-addon&type=date&legend=bottom-right" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=bigmoby/fglair_for_homeassistant%2Cbigmoby/addon-wireguard-client%2Cbigmoby/hassio-repository-addon&type=date&legend=bottom-right" />
+ </picture>
+</a>
+
+---
+
 ### 📈 GitHub Stats
 
 ![Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigmoby&show_icons=true&theme=tokyonight)  
